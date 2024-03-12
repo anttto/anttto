@@ -4,8 +4,8 @@
 반갑습니다.😄
 
 📚 #### Stack  
-⚡ Html | Css | Scss 
-⚡ Javascript | Typescript
-⚡ Vue | Nuxt
-⚡ React
+⚡ Html | Css | Scss  
+⚡ Javascript | Typescript  
+⚡ Vue | Nuxt  
+⚡ React  
 ⚡ Git
