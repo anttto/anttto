@@ -3,9 +3,9 @@
 
 **📚 Stack**  
 ------------------
-⚡ Html | Css | Scss | Tailwind    
-⚡ Javascript | Typescript  
-⚡ Vue | Nuxt  
+⚡ Html, Css, Scss, Tailwind    
+⚡ Javascript, Typescript  
+⚡ Vue, Nuxt  
 ⚡ React  
 ⚡ Webpack  
 ⚡ Git  
